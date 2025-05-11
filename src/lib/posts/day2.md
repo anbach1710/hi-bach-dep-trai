@@ -3,9 +3,7 @@ title: "Tiến trình và Luồng"
 date: "2025-05-06"
 updated: "2025-05-0606"
 categories:
-  - "sveltekit"
-  - "markdown"
-  - "svelte"
+  - "AnBach"
 coverImage: "/images/jerry-zhang-ePpaQC2c1xA-unsplash.jpg"
 coverWidth: 16
 coverHeight: 9
@@ -30,7 +28,10 @@ excerpt: ấn vào để xem thêm...
 * RAM 8GB đủ cho chạy nhiều tiến trình cùng lúc mà không gây chậm trễ lớn.
 
 **→ Nhận định**: Máy có cấu hình mạnh mẽ, phù hợp cho cả đa luồng (nhiều luồng chạy song song trong một tiến trình) lẫn đa tiến trình (nhiều chương trình chạy độc lập).
-![hihi](../../../images/hihi.jpg)
+
+![alt text](../../../images/hu.png)
+
+
 ---
 
 ## 📝 **BÀI TẬP 2: 12 bài toán CNTT phổ biến sử dụng đa luồng / đa tiến trình**
@@ -59,7 +60,6 @@ excerpt: ấn vào để xem thêm...
 
  **BÀI TẬP 4: Report – ChatGPT training sử dụng hệ thống phân tán như thế nào?**
 
-**Tóm tắt:**
 
 * ChatGPT được huấn luyện bởi OpenAI trên **siêu máy tính** do Microsoft Azure cung cấp.
 * Mô hình dùng **distributed training** với hàng ngàn GPU nối mạng.
