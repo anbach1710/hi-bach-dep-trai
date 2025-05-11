@@ -3,12 +3,11 @@ title: "Truyền Thông"
 date: "2025-05-0707"
 updated: "2025-05-07"
 categories:
-  - "sveltekit"
-  - "markdown"
+  - "AnBach"
 coverImage: "/images/jefferson-santos-fCEJGBzAkrU-unsplash.jpg"
 coverWidth: 16
 coverHeight: 9
-excerpt: Ấn vào, để xem thêmthêm
+excerpt: Ấn vào, để xem thêm...
 ---
 
 ---
