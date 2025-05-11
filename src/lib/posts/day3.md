@@ -1,13 +1,13 @@
 ---
 title: "Truyền Thông"
-date: "2025-05-0707"
+date: "2025-05-07"
 updated: "2025-05-07"
 categories:
   - "AnBach"
 coverImage: "/images/jefferson-santos-fCEJGBzAkrU-unsplash.jpg"
 coverWidth: 16
 coverHeight: 9
-excerpt: Ấn vào, để xem thêm...
+excerpt: Ấn vào để xem thêm...
 ---
 
 ---
