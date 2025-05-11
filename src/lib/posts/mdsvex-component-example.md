@@ -18,19 +18,19 @@ excerpt: ấn vào để xem thêm...
 
 **Cấu hình phổ biến của ASUS TUF GAMING F15:**
 
-* **CPU**: Intel Core i7-12700H (14 nhân: 6 hiệu năng + 8 tiết kiệm điện, 20 threads)
+* **CPU**: Intel Core i5-10300H (14 nhân: 6 hiệu năng + 8 tiết kiệm điện, 20 threads)
 * **GPU**: NVIDIA GeForce RTX 3050/3060/3070 tùy phiên bản
-* **RAM**: 16GB DDR4 hoặc DDR5
+* **RAM**: 8GB DDR4 hoặc DDR5
 * **Ổ cứng**: SSD NVMe tốc độ cao
 
 **Hiệu năng:**
 
 * Với 20 threads, máy có thể xử lý tốt đa luồng (multithreading), đặc biệt hữu ích cho lập trình song song, chơi game, hoặc xử lý dữ liệu lớn.
 * GPU RTX hỗ trợ tính toán song song thông qua CUDA, rất phù hợp cho AI, machine learning.
-* RAM 16GB đủ cho chạy nhiều tiến trình cùng lúc mà không gây chậm trễ lớn.
+* RAM 8GB đủ cho chạy nhiều tiến trình cùng lúc mà không gây chậm trễ lớn.
 
 **→ Nhận định**: Máy có cấu hình mạnh mẽ, phù hợp cho cả đa luồng (nhiều luồng chạy song song trong một tiến trình) lẫn đa tiến trình (nhiều chương trình chạy độc lập).
-
+![hihi](../../../images/hihi.jpg)
 ---
 
 ## 📝 **BÀI TẬP 2: 12 bài toán CNTT phổ biến sử dụng đa luồng / đa tiến trình**
